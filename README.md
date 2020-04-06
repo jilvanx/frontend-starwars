@@ -6,6 +6,8 @@
 
 This frontend uses [SWAPI - The Star Wars API](https://swapi.co) to search starwars characters from all the movies you've ever wanted. Built using React ⚛️ + ❤️.
 
+See more https://frontend-starwars.netlify.com/
+
 ## Install 🚀
 * Clone the project
 ```sh
